@@ -28,11 +28,10 @@ The script reads a list of potential directory names from a wordlist file, appen
 - Python 3.x
 - `requests` library
 
-Install dependencies:
-```bash
-pip install requests
-
 ## ⚠️ Ethical Disclaimer
 This tool is intended strictly for educational and ethical use. Do not use it to scan websites or servers without explicit permission from the owner. Unauthorized scanning may violate laws, terms of service, and ethical guidelines. The author is not responsible for any misuse of this tool.
 
+Install dependencies:
+```bash
+pip install requests
 git clone https://github.com/devsetpal9-png/Directory-brute-forcer
